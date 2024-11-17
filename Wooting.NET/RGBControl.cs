@@ -18,6 +18,9 @@ namespace Wooting
 
         /// 3 key keypad, E.g. Wooting UwU
         Keypad3Key = 4,
+
+        /// 80% keyboard. E.g. Wooting 80HE
+        Keyboard80 = 5,
     }
 
     public enum LayoutType
